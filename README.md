@@ -31,19 +31,26 @@ No application-level programming code was written. Instead, the project focuses 
 
 Local-AI-Assistant-Project/
 │
-├── commands/
-│   └── setup-commands.md
+├── README.md
 │
-├── screenshots/
-│   ├── ollama-install.png
-│   ├── llama-cli-chat.png
-│   ├── docker-version.png
-│   ├── openwebui-dashboard.png
+├── commands/
+│   └── setup-commands.ipynb
 │
 ├── documentation/
 │   └── Local_AI_Assistant_Report.pdf
 │
-└── README.md
+└── screenshots/
+    ├── ollama-version.png
+    ├── ollama-pull-llama3.2.png
+    ├── ollama-pull-run.png
+    ├── llama-cli-sample-prompt.png
+    ├── llama-cli-chat-help-commands.png
+    ├── docker-version.png
+    ├── docker-run.png
+    ├── openwebui-login-page.png
+    ├── openwebui-model-selection.png
+    └── openwebui-sample-prompt.png
+
 
 ```
 
